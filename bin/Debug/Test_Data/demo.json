@@ -1,0 +1,30 @@
+[
+  {
+    "name": "t1",
+    "children": [
+      { "name": "dsafaf" },
+      {
+        "name": "dir",
+        "children": [
+          { "name": "aaewr000" },
+          { "name": "aaewr000" },
+          { "name": "aaewr000" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "t2",
+    "children": [
+      { "name": "dsafaf" },
+      {
+        "name": "dir",
+        "children": [
+          { "name": "aaewr000" },
+          { "name": "aaewr000" },
+          { "name": "aaewr000" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Template\Template\bin\Release\Test_Data\demo.json
+C:\Users\Administrator\source\repos\Template\Template\bin\Release\Template.exe.config
+C:\Users\Administrator\source\repos\Template\Template\bin\Release\Template.exe
+C:\Users\Administrator\source\repos\Template\Template\bin\Release\Template.pdb
+C:\Users\Administrator\source\repos\Template\Template\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Template\Template\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.CreateNodesFromDir.resources
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.Form1.resources
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.NewPlaceholders.resources
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.Tip.resources
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.exe
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.pdb
+C:\Users\Administrator\source\repos\Template\Template\obj\Release\Template.csprojResolveAssemblyReference.cache
